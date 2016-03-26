@@ -1,0 +1,7 @@
+#main {
+  max-width: 600px;
+  margin: 0px auto;
+}
+
+@media (min-width:500px) #main {
+}
